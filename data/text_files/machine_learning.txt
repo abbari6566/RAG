@@ -1,0 +1,13 @@
+
+    Machine learning (ML) is the study of computer algorithms that improve automatically through experience.
+    It is seen as a subset of artificial intelligence (AI). Machine learning focuses on the development of algorithms and mathematical models to recognize patterns in data, learn from it, 
+    and make predictions or decisions without being explicitly programmed to do so.
+
+    Key Features : 
+    Supervised learning
+    Unsupervised learning
+    Reinforcement learning
+    Deep learning    
+
+    Machine learning has applications in various fields, including computer vision, natural language processing, recommendation systems, and more.
+    

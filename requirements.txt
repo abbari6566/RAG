@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+python-dotenv
+langchain-google-genai
+google-genai
+google-generativeai
